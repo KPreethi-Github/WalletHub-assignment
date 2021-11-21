@@ -1,0 +1,16 @@
+2021-11-21 22:32:32,129  INFO [main] Assignment-Log:22 - Launched Browser
+ 2021-11-21 22:32:36,062  INFO [main] Assignment-Log:16 - Launched FaceBook
+ 2021-11-21 22:32:36,361  INFO [main] Assignment-Log:18 - Logged into FaceBook
+ 2021-11-21 22:32:54,413  INFO [main] Assignment-Log:20 - Posted the status
+ 2021-11-21 22:32:55,260  INFO [main] Assignment-Log:29 - Closed Browser
+
+ 2021-11-21 22:32:56,674  INFO [main] Assignment-Log:22 - Launched Browser
+ 2021-11-21 22:33:04,792  INFO [main] Assignment-Log:17 - Launched WalletHub
+ 2021-11-21 22:33:23,397  INFO [main] Assignment-Log:21 - Selected 4 Star
+ 2021-11-21 22:33:23,594  INFO [main] Assignment-Log:23 - Selected the policy
+ 2021-11-21 22:33:30,170  INFO [main] Assignment-Log:25 - Submitted the review
+ 2021-11-21 22:33:44,621  INFO [main] Assignment-Log:27 - Success message is displayed
+ 2021-11-21 22:33:47,521  INFO [main] Assignment-Log:30 - Review displaying in the Homepage
+ 2021-11-21 22:33:48,238  INFO [main] Assignment-Log:29 - Closed Browser
+
+ 

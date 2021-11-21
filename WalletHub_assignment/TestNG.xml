@@ -1,0 +1,8 @@
+<suite name="TestAssignment">
+	<test name="WalletHub_assignment">
+		<classes>
+			<class name="com.assignment.test.LoginFacebook" />
+			<class name="com.assignment.test.ReviewWalletHub" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAssignment" duration-ms="78428" started-at="2021-11-21T22:32:29 IST" finished-at="2021-11-21T22:33:48 IST">
+    <groups>
+    </groups>
+    <test name="WalletHub_assignment" duration-ms="78428" started-at="2021-11-21T22:32:29 IST" finished-at="2021-11-21T22:33:48 IST">
+      <class name="com.assignment.test.LoginFacebook">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.test.LoginFacebook@1efed156]" name="setup" is-config="true" duration-ms="2279" started-at="2021-11-21T22:32:29 IST" finished-at="2021-11-21T22:32:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginFb()[pri:0, instance:com.assignment.test.LoginFacebook@1efed156]" name="loginFb" duration-ms="22280" started-at="2021-11-21T22:32:32 IST" finished-at="2021-11-21T22:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.test.LoginFacebook@1efed156]" name="teardown" is-config="true" duration-ms="841" started-at="2021-11-21T22:32:54 IST" finished-at="2021-11-21T22:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.test.LoginFacebook -->
+      <class name="com.assignment.test.ReviewWalletHub">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.test.ReviewWalletHub@6737fd8f]" name="setup" is-config="true" duration-ms="1408" started-at="2021-11-21T22:32:55 IST" finished-at="2021-11-21T22:32:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginToreview()[pri:0, instance:com.assignment.test.ReviewWalletHub@6737fd8f]" name="loginToreview" duration-ms="50846" started-at="2021-11-21T22:32:56 IST" finished-at="2021-11-21T22:33:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToreview -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.test.ReviewWalletHub@6737fd8f]" name="teardown" is-config="true" duration-ms="716" started-at="2021-11-21T22:33:47 IST" finished-at="2021-11-21T22:33:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.test.ReviewWalletHub -->
+    </test> <!-- WalletHub_assignment -->
+  </suite> <!-- TestAssignment -->
+</testng-results>
