@@ -18,6 +18,9 @@ public class Objects_WalletHub_Homepage {
 	String appUrl = "http://wallethub.com/profile/test_insurance_company/";
 	String profileUrl = "https://wallethub.com/profile/67737890i";
 
+	String mailId = "";   //Give emailId
+	String password = "";   //Give password
+	
 	By loginLink = By.xpath("//span[text()='Login']");
 	By email = By.xpath("//input[@name='em']");
 	By pwd = By.xpath("//input[@type='password']");
@@ -30,8 +33,8 @@ public class Objects_WalletHub_Homepage {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(loginLink));
 		ldriver.findElement(loginLink).click();
 		wait.until(ExpectedConditions.visibilityOfElementLocated(email));
-		ldriver.findElement(email).sendKeys("preeteekannan@gmail.com");
-		ldriver.findElement(pwd).sendKeys("Testing@123");
+		ldriver.findElement(email).sendKeys(mailId);
+		ldriver.findElement(pwd).sendKeys(password);
 		ldriver.findElement(loginBtn).click();
 	}
 
