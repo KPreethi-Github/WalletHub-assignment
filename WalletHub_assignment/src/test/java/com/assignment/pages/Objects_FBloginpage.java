@@ -8,8 +8,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Objects_FBloginpage {
 
 	String url = "https://www.facebook.com/";
-	String username = "preetee22@gmail.com";
-	String password = "cindrella";
+	String username = "";   //Give username
+	String password = "";   //Give password
 
 	WebDriver ldriver;
 
